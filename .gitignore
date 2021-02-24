@@ -1,0 +1,10 @@
+# Log file
+*.log
+
+target/
+
+.idea/
+images/
+
+# IntelliJ files
+*.iml
